@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Radhit Dedania"
   avatar           : "profile.png"
-  bio              : "Trading Infrastructure Development Intern"
+  bio              : "Trading Infrastructure Development Intern, NK Securities"
   location         : "Gurgaon, India "
-  employer         : "NK Securities"
+  employer         : #"NK Securities"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "radhitd9@gmail.com"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "http://github.com/radhit91"
+  github           : "radhit91"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/radhit-dedania-a8169119a/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "radhit-dedania-a8169119a/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
