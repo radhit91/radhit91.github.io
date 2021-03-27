@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of California, Irvine"
 date: 2015-01-01
-location: "City, Country"
+location: "Irvine, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I will be a Teaching Assistant at Donald Bren School of Informatics and Computer Science for course INF 115(Software Testing and Quality Assurance) during Spring 2021.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
