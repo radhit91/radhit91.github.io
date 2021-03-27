@@ -1,10 +1,9 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "INF 115"
-permalink: /teaching/2014-spring-teaching-1
+type: "INF 113"
+permalink: /teaching/2021-winter-teaching-1
 venue: "University of California, Irvine"
-date: 2014-01-01
 location: "Irvine, United States"
 ---
 
