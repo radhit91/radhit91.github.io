@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant
 collection: teaching
-type: "Workshop"
+type: "INF 115"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of California, Irvine"
 date: 2015-01-01
