@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<iframe src="/files/Resume-Radhit-Dedania.pdf" width="100%" height="700"></iframe>
+<iframe src="/files/Resume_Radhit.pdf" width="100%" height="700"></iframe>
 
 ---
 
